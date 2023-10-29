@@ -1,0 +1,70 @@
+{
+  "bio": "RetroPGF Rubric-based List Creation UI opening to public crowdsourcing",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Retrolist | RetroPGF Rubric-based List Creation UI",
+  "websiteUrl": "https://retrolist.app",
+  "applicant": {
+    "address": {
+      "address": "0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D",
+      "resolvedName": {
+        "address": "0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D.png",
+    "id": "OptimistProfile|0x4c6562e062efdab8212f264356ed5deff7247c284d1a0b4478547caac009768d"
+  },
+  "impactDescription": "RetroList integrates a rubric-based scoring system, endorsed by the grant council for its efficiency, into RetroPGF 3.\n\nWe have done a market validation on a small group of active contributors and 10+ non-badgeholders are showing interest in creating a list for RetroPGF 3 with RetroList!\n\nOur novel approval mechanism is designed by discussing with badgeholders.\n\nWe have designed 10 rubrics for RetroPGF 3 which 3 of them adopted from the grant council:\n- Grant Council's Builder Rubric\n- Grant Council's Growth Rubric\n- Grant Council's RPC Provider Rubric\n- TVL and Volume Rubric\n- OP Stack Hack Rubric\n- Developer and DAO Tooling Rubric\n- NFT, DAO, and Artist Community Rubric\n- Educational, Research and Content Rubric\n- Open Source Contribution Rubric\n- Dashboard and Analytics Rubric",
+  "contributionDescription": "RetroList provides an alternative to the RetroPGF List Creation UI, using a rubric-based approach to allocate OP to projects. RetroList is open to the public, allowing everyone to create their own lists and contribute to RetroPGF3.\n\nRetroList differs from Supermodular's list creation UI in two major ways:\n1. RetroList utilizes rubric-based scoring\n2. RetroList is open to the public, enabling everyone to create their own lists\n\nRetroList implement a novel approval mechanism to filter out spam efficiently as follows:\n1. Users connect their Twitter and Discord and create a list -> Status: Draft (Hidden)\n2. Our team does a preliminary review -> Status: Qualified (Show only in our UI)\n3. A badgeholder approves the list -> Status: Approved (Usable in the ballot)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://retrolist.app",
+      "description": "RetroList Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/oC8b9XwHndw",
+      "description": "Demo Video"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.figma.com/file/hH24wDP3daHKwIeYrDyVQE/Retrolist---Rubric-Based---V.1?type=design&node-id=0%3A1&mode=design&t=4rR2hTHy7tFcXe2R-1",
+      "description": "Figma Design"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/16E2_RSRXbLIBZMfa9YLVdF56ll1bT6fHfZ7pdi058OE/edit?usp=sharing",
+      "description": "Rubric Design"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/106#issuecomment-1705558421",
+      "description": "Our RFP proposal (Not passed)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Rubrics Designed for RetroPGF 3",
+      "number": "10",
+      "url": "https://docs.google.com/spreadsheets/d/16E2_RSRXbLIBZMfa9YLVdF56ll1bT6fHfZ7pdi058OE/edit?usp=sharing"
+    },
+    {
+      "description": "Interested Contributors",
+      "number": "10",
+      "url": "https://docs.google.com/document/d/1ETHANCTXsoDhlq0_4T7wODld4mOVaDCT7sbrOkSHrQE/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+  "prelimResult": "Pending Review - R2"
+}

@@ -1,0 +1,70 @@
+{
+  "bio": "Helping Mass Adoption",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Inbest Program",
+  "websiteUrl": "https://www.youtube.com/@inbestprogram",
+  "applicant": {
+    "address": {
+      "address": "0x0263E43c0dE253a0fe354b60d35D2855c514a887",
+      "resolvedName": {
+        "address": "0x0263E43c0dE253a0fe354b60d35D2855c514a887",
+        "name": "inbestprogram.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0263E43c0dE253a0fe354b60d35D2855c514a887"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.jpeg",
+    "id": "OptimistProfile|0x75b16b1f5daedc9350d552ce31841e12f80389d17f9981f82cd5faa92f242c2d"
+  },
+  "impactDescription": "the impact Inbest Program has generated at the time, might not be the numbers we want, but we are still growing, we have been providing the spanish speaking audience with information about optimism and the technology behind the op stack, the benefit of the modularity, the problems it solve and how to get involved.\n\nnot only for user but also for developers who want information on this topics like the op stack and the benefits of developing with this technology, like using the op stack to create a rollup that will run as the execution layer and how thanks to modularity we can commbine that with data availability solutions and much more\n\nif granted any amount of tokens, everything will go to the quality and reach of our videos, in order to accomplish our goal of helping mass adoption!",
+  "contributionDescription": "At inbest we are a bridge between the cutting edge blockchain technologies and the end users who do not understand it, sometime is hard to find information other than the extensive documentation that gets to technical for most users.\n\nOur role is to find this information, digest it, and then feed it to the audience on a specific manner that tends to be easier to understand. \n\nIn spanish is even more dificult to find objective and well created content that explains this technologies and how they work so that the regular users gain more interest!\n\nthis will greatly impact the growth and adoption of the SuperChain! \n\nif you type \"la super cadena op\" you will see a lot of \"airdrop\" videos, but only one actually explaining the technology and talking about the op stack in spanish.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/NPpgLAZmEZY?si=OY7RV5GAtVlktLId",
+      "description": "Video explaining the super chain and the technology behind it, the op stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/xEzsZl8mYz8?si=dezvjtfPiJFL6CdA",
+      "description": "Step by Step on how to delegate OP, the incentives and bedrock update"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/bqyT1G5KiDE?si=mxxyejxVrZCSiYIw",
+      "description": "in this video about manta network we talk about the op stack in depth"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/@inbestprogram/videos",
+      "description": "the cannel has many vids about OP, and we want to grow and keep creating"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethereum.cr/day",
+      "description": "Speaker in ETHEREUM COSTA RICA. Topic: Scaling Erthereum with L2s"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Growth and interactions",
+      "number": "1",
+      "url": "https://drive.google.com/file/d/1oslqvCZxy2m5DsfnpqZBCx4EJG3h7RnS/view?usp=drive_link"
+    },
+    {
+      "description": "Speaker at ETH Costa Rica Colab",
+      "number": "1",
+      "url": "https://twitter.com/EthereumCR/status/1715012474595057789"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4384f12001b8b7bcbf3abe9d0a354378851b34f68634ef0e9cec92152c18c1c2",
+  "prelimResult": "Remove"
+}

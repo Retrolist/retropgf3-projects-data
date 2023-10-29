@@ -1,0 +1,49 @@
+{
+  "bio": "Crypto enthusiast Moderator and helper on a French community discord",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "MaitreSarce",
+  "websiteUrl": "https://twitter.com/Dubstagz",
+  "applicant": {
+    "address": {
+      "address": "0x45C3707c25eCe1e4705a5d708685f0a77Dc18cD1",
+      "resolvedName": {
+        "address": "0x45C3707c25eCe1e4705a5d708685f0a77Dc18cD1",
+        "name": "maitresarce.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x45C3707c25eCe1e4705a5d708685f0a77Dc18cD1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x45C3707c25eCe1e4705a5d708685f0a77Dc18cD1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x45C3707c25eCe1e4705a5d708685f0a77Dc18cD1.jpeg",
+    "id": "OptimistProfile|0x5bec6f80f53108d47393ffec8a7bea1fdb205ecf977e05c7054983abdcc37407"
+  },
+  "impactDescription": "Thanks to the help provided on Discord, many people were able to avoid interacting with malicious contracts. In addition, I was also able to help people achieve their goal, which they sometimes had difficulty achieving (whether it was deploying a contract, stacking tokens, swap or wrap, bridge...)",
+  "contributionDescription": "I spend several hours a day helping people as a helper on a community discord, particularly on the subject of optimism.\nThis makes it possible to support new people in using the blockchain (whether in choosing the applications to use, paying attention to their interactions and avoiding scams).\n\nAt the same time I deploy NFT collections from time to time on different platforms.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5763036ac1c46f9cbec52b7e606ec29f20038a93#internaltx",
+      "description": "An NFT collection on Zora with Futuristic car against mountain backdrop."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/invite/stSDedPEB3",
+      "description": " Moderator and helper on a French community discord of 2000 people"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of people",
+      "number": "2000",
+      "url": "https://discord.com/invite/stSDedPEB3"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xab0941c9ef197d36e31a3d4ffedc02977300b8703d3ba2a68cfe27fa899ddd1a",
+  "prelimResult": "#N/A"
+}

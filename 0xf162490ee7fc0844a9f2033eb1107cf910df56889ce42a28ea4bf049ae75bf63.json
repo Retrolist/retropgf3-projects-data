@@ -1,0 +1,86 @@
+{
+  "bio": "Waffle is a framework for testing smart contracts",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Waffle",
+  "websiteUrl": "https://getwaffle.io/",
+  "applicant": {
+    "address": {
+      "address": "0x99FBa19112f221D0B44c9c22241f5e6b2Db715F6",
+      "resolvedName": {
+        "address": "0x99FBa19112f221D0B44c9c22241f5e6b2Db715F6",
+        "name": "ryanrodenbaugh.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x99FBa19112f221D0B44c9c22241f5e6b2Db715F6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x99FBa19112f221D0B44c9c22241f5e6b2Db715F6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x99FBa19112f221D0B44c9c22241f5e6b2Db715F6.png",
+    "id": "OptimistProfile|0x17e2b86a9359bb5b8b910a14636c288b9b4747d207d57eaf25a2c980e96588df"
+  },
+  "impactDescription": "Waffle has enabled teams, including OP Labs to more quickly and reliably write smart contact tests, making applications safer for users. \n\n- Waffle was used by over 70k projects including Optimism, Uniswap, Aave, 0x, Balancer, zkSync, Cosmos, ENS, Gnosis, SushiSwap, Loopring, Aragon, PoolTogether, and Gitcoin. \n\n- Here is the full list of projects using Waffle at this point in time: https://www.npmjs.com/package/ethereum-waffle?activeTab=dependents",
+  "contributionDescription": "We are the creators and maintainers of Waffle, a framework for testing smart contracts. \n\n- Multiple repositories in the Optimism ecosystem are dependent on Waffle. \n- Waffle provides a clean and simplified way to write tests for smart contracts. \n- It abstracts away much of the boilerplate code, making it easier to focus on the actual test logic and improving overall ecosystem security and reliability. \n- Waffle is one of the most popular testing libraries. It has helped many projects and developers keep their smart contracts secure and well-tested. \n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/TrueFiEng/Waffle/graphs/contributors",
+      "description": "Our team was part of Waffle creators over time becoming the only maintainers"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=EjI_pdC-9Z0",
+      "description": "Workshop at Devcon Bogota"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=hWZKjONeWF0",
+      "description": "Workshop at EthCC"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=gCEyIWPShpw",
+      "description": "Workshop at EthGlobal (Online)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dependent Repos",
+      "number": "131",
+      "url": "https://www.npmjs.com/package/ethereum-waffle?activeTab=dependents"
+    },
+    {
+      "description": "Lifetime downloads",
+      "number": "8705948",
+      "url": "https://npm-stat.com/charts.html?package=ethereum-waffle&from=2018-09-01&to=2023-10-21"
+    },
+    {
+      "description": "Weekly Downloads",
+      "number": "84312",
+      "url": "https://www.npmjs.com/package/ethereum-waffle"
+    },
+    {
+      "description": "Github Stars",
+      "number": "950",
+      "url": "https://github.com/TrueFiEng/Waffle"
+    },
+    {
+      "description": "Hardhat-Waffle Weekly Downloads",
+      "number": "81808",
+      "url": "https://www.npmjs.com/package/@nomiclabs/hardhat-waffle"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 30000,
+      "description": "Ethereum Foundation Grant in 2020"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf162490ee7fc0844a9f2033eb1107cf910df56889ce42a28ea4bf049ae75bf63",
+  "prelimResult": "#N/A"
+}

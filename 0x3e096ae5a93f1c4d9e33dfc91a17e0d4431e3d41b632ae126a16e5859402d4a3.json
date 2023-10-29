@@ -1,0 +1,47 @@
+{
+  "bio": "Gem Chip",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Nam Mai Phuong",
+  "websiteUrl": "https://twitter.com/phuongnamit28",
+  "applicant": {
+    "address": {
+      "address": "0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4",
+      "resolvedName": {
+        "address": "0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x48F88d0e26704363eA72EEF6dCBF198E1F32d4D4.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd06cda2042d8ebbfb9894cacf75591d566641af824a98ba40de314b46682a833"
+  },
+  "impactDescription": "Tầm nhìn lạc quan là lớn! Và Tầm nhìn lớn này cần được khuếch đại bởi một nhóm đa dạng và liên kết để giúp biến nó thành hiện thực.\n\nChương trình Đại sứ cho phép các thành viên cộng đồng tạo ra nội dung tập trung để đưa Tầm nhìn đến gần hơn với thực tế. Nếu bạn có năng khiếu viết lách, thiết kế hoặc hình ảnh, hãy tham gia!\nNếu dự án của bạn muốn có một chút tình yêu tiếp thị, bạn có các lựa chọn! Đưa dapp của bạn đến với cộng đồng Lạc quan với Ngày thử nghiệm của chúng tôi (hai tuần một lần) .\nNếu được triển khai trên OP Mainnet, bạn có thể được thêm vào trang hệ sinh thái của chúng tôi (mở cửa sổ mới). Đơn giản chỉ cần điền vào mẫu này (mở cửa sổ mới)được bao gồm. Việc đưa vào là theo quyết định của chúng tôi. Chúng tôi thêm các dự án mới trực tiếp trên OP Mainnet mỗi tuần một lần.",
+  "contributionDescription": "Tầm nhìn lạc quan là lớn! Và Tầm nhìn lớn này cần được khuếch đại bởi một nhóm đa dạng và liên kết để giúp biến nó thành hiện thực.\n\nChương trình Đại sứ cho phép các thành viên cộng đồng tạo ra nội dung tập trung để đưa Tầm nhìn đến gần hơn với thực tế. Nếu bạn có năng khiếu viết lách, thiết kế hoặc hình ảnh, hãy tham gia!\nNếu dự án của bạn muốn có một chút tình yêu tiếp thị, bạn có các lựa chọn! Đưa dapp của bạn đến với cộng đồng Lạc quan với Ngày thử nghiệm của chúng tôi (hai tuần một lần) .\nNếu được triển khai trên OP Mainnet, bạn có thể được thêm vào trang hệ sinh thái của chúng tôi (mở cửa sổ mới). Đơn giản chỉ cần điền vào mẫu này (mở cửa sổ mới)được bao gồm. Việc đưa vào là theo quyết định của chúng tôi. Chúng tôi thêm các dự án mới trực tiếp trên OP Mainnet mỗi tuần một lần.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://socketscan.io/address/0x48f88d0e26704363ea72eef6dcbf198e1f32d4d4?page=1",
+      "description": "brigde"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "testnet on chain, brigde onchain",
+      "number": "420",
+      "url": "https://socketscan.io/address/0x48f88d0e26704363ea72eef6dcbf198e1f32d4d4?page=1"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3e096ae5a93f1c4d9e33dfc91a17e0d4431e3d41b632ae126a16e5859402d4a3",
+  "prelimResult": "Remove"
+}

@@ -1,0 +1,70 @@
+{
+  "bio": "Passionate about blockchain and the positive impact it can have on the globe.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Cardo",
+  "websiteUrl": "https://twitter.com/gregcardo",
+  "applicant": {
+    "address": {
+      "address": "0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4",
+      "resolvedName": {
+        "address": "0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4",
+        "name": "gregcardo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4.png",
+    "id": "OptimistProfile|0x92cc1b9cc61ef109f3ffdf6b1e66579f04d54e3a8a19e8b4771029015abfece9"
+  },
+  "impactDescription": "I have helped create more accurate documentation for our community members. Such change would lead to a less frustrating and smoother user experience for users and developers within the Collective.\n\nPosting Twitter threads to raise awareness about the Collective has expanded our reach and visibility. These threads have acted as a powerful tool to inform, educate, and inspire a broader audience. They will attract new followers, supporters, and potential collaborators.",
+  "contributionDescription": "I've made contributions that have enriched the Collective. One of the key ways I've added value is through my contribution to the Community Hub repository. I've dedicated my time and expertise to updating vital information that enhances the functionality and accessibility of developer resources.\n\nAdditionally, I've leveraged my skills to craft numerous Twitter threads, each designed to effectively raise awareness about the Collective's mission and impact.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/community-hub/pull/717",
+      "description": "Fixed broken links, removed dated ones and added helpful resources in the docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/gregcardo/status/1715446686997168591?s=20",
+      "description": "Wrote a thread about ways to contribute and earn with the Collective"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/gregcardo/status/1709870096284365272?s=20",
+      "description": "Wrote a comprehensive thread on RetroPGF"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/gregcardo/status/1713905266670903751?s=20",
+      "description": "Wrote a comprehensive thread highlighting the changes coming to Governance S5"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views and engagement",
+      "number": "32",
+      "url": "https://x.com/gregcardo/status/1715446686997168591?s=20"
+    },
+    {
+      "description": "Views and engagement",
+      "number": "50",
+      "url": "https://x.com/gregcardo/status/1713905266670903751?s=20"
+    },
+    {
+      "description": "Views and engagement",
+      "number": "114",
+      "url": "https://x.com/gregcardo/status/1709870096284365272?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb013f320dfc52223d553455adbec3dad79691698c85b5ea8c27e81c46fd014b5",
+  "prelimResult": "Keep"
+}

@@ -1,0 +1,104 @@
+{
+  "bio": "The NFT artist introducing Optimism blockchain to Layer1 and Web2 business.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "sorryvrerror",
+  "websiteUrl": "https://sorryvrerror.co/",
+  "applicant": {
+    "address": {
+      "address": "0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78",
+      "resolvedName": {
+        "address": "0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78",
+        "name": "sorryvrerror.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.png",
+    "id": "OptimistProfile|0xac3b5f45b9ee97c90a57410bfaa88e21c011e9710c087e3f06f95d9ea1875193"
+  },
+  "impactDescription": "I introduced five companies, namely SRANN, Mangmoom Publishing, Tripster, NFT360, and Starlet, to the world of web3 through Optimism Stacks. I also welcomed NFT projects and protocols from Ethereum, such as Flower Girls and Omnisea, to participate in events on Optimism.\n\nFurthermore, I harnessed my art to promote Optimism NFT and onboard users to Optimism and Base by collaborating with prominent protocols like Coinbase, OpenSea, and Galxe.",
+  "contributionDescription": "I am a graphic designer, writer, and entrepreneur passionate about art. In June 2021, I embarked on my journey as an NFT artist, and it eventually became my full-time occupation, with my projects primarily on the Ethereum blockchain.\n\nIn June 2022, I launched my first project on Optimism, recognizing it as an ideal platform for NFTs due to its lower gas fees. I leveraged NFTs to promote businesses and events, using my art and marketing initiatives to attract new users to Optimism. As both an artist and the founder of a pioneering project on Optimism, my work garnered attention from companies and projects in the web2 realm, allowing me to introduce them to the world of Web3 through Optimism Stack.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.manifold.xyz/c/boredinblue",
+      "description": "Bored in Blue, the collection to promote Optimism NFT on Coinbase wallet.."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/sorryvrerror_co/status/1676029064002322433?s=20",
+      "description": "A post on X to promote Optimism quest on Coinbase wallet."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/sorryvrerror_co/status/1716658598275862899?s=20",
+      "description": "A post on X to promote RetroPGF."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/bored-tarot",
+      "description": "Bored Tarot, the collection to collaborate with Galxe."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/the-vintract",
+      "description": "The Vintract, the collection to promote SRANN skincare product on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/mangmoom",
+      "description": "Mangmoom, the collection to promote Mangmoom publishing on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/apewarrior",
+      "description": "Ape Warrior Redux, the collection to promote young artist on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/bored-101",
+      "description": "Bored 101, the unique 1/1 NFT collection on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/477UdeqmHgI?si=CQ0GPNdDX2v6ynU-",
+      "description": "OP Radio interview about my projects on Optimism."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Transections from Coinbase promotion",
+      "number": "21239",
+      "url": "https://optimistic.etherscan.io/token/0x56f0ab29080d794cfbcf3d3c885cd814df014c2a"
+    },
+    {
+      "description": "Transections from Galxe promotion",
+      "number": "6188",
+      "url": "https://optimistic.etherscan.io/token/0x06163c8a9fc6346481d195d70e75116c38ebaa00"
+    },
+    {
+      "description": "Transections from SRANN promotion",
+      "number": "1941",
+      "url": "https://optimistic.etherscan.io/token/0xb82b7887f0a92ca07907e7c01d9ffbbebe95daf4"
+    },
+    {
+      "description": "Transections from Mangmoom promotion",
+      "number": "1412",
+      "url": "https://optimistic.etherscan.io/token/0x99edc7af5923b5a8dfe041f4252a892b2862f582"
+    },
+    {
+      "description": "X followers",
+      "number": "19200",
+      "url": "https://twitter.com/sorryvrerror_co"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x5ab273fbce7d49486b42feb2048a7746d7ccf19bde5507c55b17dc5ca00d3f15",
+  "prelimResult": "Keep"
+}

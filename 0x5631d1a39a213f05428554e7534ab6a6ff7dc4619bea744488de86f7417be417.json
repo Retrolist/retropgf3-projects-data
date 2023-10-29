@@ -1,0 +1,101 @@
+{
+  "bio": "Open Source Ethereum Explorer",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "beaconcha.in",
+  "websiteUrl": "https://beaconcha.in/",
+  "applicant": {
+    "address": {
+      "address": "0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979",
+      "resolvedName": {
+        "address": "0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979",
+        "name": "grants.beaconchain.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979.png",
+    "id": "OptimistProfile|0x2ef30a9a01eeeac5f6f1f9c5c8035bb83654b56f5ed70ad973a7e3b28546cbf0"
+  },
+  "impactDescription": "- beaconcha.in is the *only* consensus layer explorer in the ecosystem.\n\n- Easy way for Local Explorer and Testnet Simulation\ngobitfly/eth2-beaconchain-explorer/tree/master/local-deployment\n\n-  A significant backend rework to allow anyone spin up any EVM explorer, thus giving developers a new playground for the OP stack\n\n- Seamless User Navigation through Network Data:\nEnd users can navigate network-related data, without noticing the various layers of the Ethereum stack (CL/EL/L2).\n\n- Improved Staking Experience with our Open Source Mobile App\nOur open-source mobile app allows for monitoring of validators, enhancing the staking experience and contributing to decentralization.\n\n- Public API Access for Consensus and Execution Layer. beaconcha.in is the only CL API provider in the ecosystem.",
+  "contributionDescription": "beaconcha.in explorer is the backbone for Ethereum's consensus and execution layer. It is the only all-in-one (CL+EL) explorer and played a pivotal role during the merge and subsequent hardforks. Due to its design, core devs use beaconcha.in to simulate and test upcoming hardforks.\n\nTo support for homestakers and decentralization, beaconcha.in provides an open-source mobile app for both iOS and Android, aiming to enhance the solo staking experience.\n\nCurrently, the codebase is undergoing significant rework to support any EVM chain, including the Optimism network.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/gobitfly/eth2-beaconchain-explorer",
+      "description": "Repository of the beaconcha.in web project."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/gobitfly/eth2-beaconchain-explorer-app",
+      "description": "Repository of the beaconcha.in mobile app."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Monthly Page View",
+      "number": "1000000",
+      "url": "https://beaconcha.in/"
+    },
+    {
+      "description": "Registered users",
+      "number": "105000",
+      "url": "https://beaconcha.in/"
+    },
+    {
+      "description": "beaconcha.in repo forks",
+      "number": "400",
+      "url": "https://github.com/gobitfly/eth2-beaconchain-explorer"
+    },
+    {
+      "description": "beaconcha.in repo stars",
+      "number": "670",
+      "url": "https://github.com/gobitfly/eth2-beaconchain-explorer"
+    },
+    {
+      "description": "beaconcha.in repo contributors",
+      "number": "78",
+      "url": "https://github.com/gobitfly/eth2-beaconchain-explorer"
+    },
+    {
+      "description": "Mobile app downloads",
+      "number": "12500",
+      "url": "https://github.com/gobitfly/eth2-beaconchain-explorer-app"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 105800,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 200000,
+      "description": "Yearly revenue with Ads, API keys, premium subscriptions"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "EF grant 2023"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 30000,
+      "description": "Gitcoin grants 2023"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+  "prelimResult": "#N/A"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "The simplest way to spin your own dev / prod rollup.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "roll-op",
+  "websiteUrl": "https://github.com/0xFableOrg/roll-op/",
+  "applicant": {
+    "address": {
+      "address": "0x576F1E53afe5e99b2257258C7E3248d3a1822548",
+      "resolvedName": {
+        "address": "0x576F1E53afe5e99b2257258C7E3248d3a1822548",
+        "name": "norswap.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x576F1E53afe5e99b2257258C7E3248d3a1822548"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576F1E53afe5e99b2257258C7E3248d3a1822548.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x576F1E53afe5e99b2257258C7E3248d3a1822548.png",
+    "id": "OptimistProfile|0xd1e9b026b4b1b933e97179e703152f81f1228f6771a161390200b141de9a4e17"
+  },
+  "impactDescription": "Roll-op was used in the EthCon Seoul hackathon in order to implement an on-chain rollup-as-a-service provider: users could request a rollup via an on-chain transaction, and providers could accept the offer, deploy the rollup and make the various contract addresses available on-chain. \n\nThis project (RICRolling — https://github.com/orgs/ricrolling/) won first place as well as prizes from Taiko, Polygon zkEVM and Linea.\n\nThe team at Upnode (https://upnode.org/) has been working closely with us and is integrating roll-op into their node infrastructure.\n\nMultiple teams have been in touch with me about the possibility of using roll-op as a way to self-host their rollapps (I sadly can't disclose because of their current relationships with their Rollup-as-a-Service provider).",
+  "contributionDescription": "roll-op is a script that makes it trivial for any developer to spin up an OP stack rollup, both for dev and production use.\n\nThe script lets you configure and run your own rollup by running only two or three commands. It uses a single well-documented config file.\n\nAdditionally, it supports EIP-4337 AA infrastructure (bundler + paymaster) and helps you automatically subsidize gas for transactions that match certain criteria.\n\nSpinning a rollup on Goerli is as simple as:\n\n> git clone git@github.com:0xFableOrg/roll-op.git\n> cd roll-op\n> cp conf.toml.example conf.toml\n# conf.toml: uncomment Goerli section, add your keys & rpc\n> ./rollop setup --yes\n> ./rollop --preset=prod --conf=conf.toml l2\n\nMore info: https://twitter.com/norswap/status/1707188816455622899",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xFableOrg/roll-op/",
+      "description": "Source code"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github stars",
+      "number": "50",
+      "url": "https://github.com/0xFableOrg/roll-op/stargazers"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Funding three months of work on the project + milestones"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x42e31df838a5ec5afb2756b26e286455f52d06f8ddc202c389d046590f583fb8",
+  "prelimResult": "#N/A"
+}

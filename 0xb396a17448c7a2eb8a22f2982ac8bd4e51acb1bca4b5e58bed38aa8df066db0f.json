@@ -1,0 +1,62 @@
+{
+  "bio": "Slither is a static analysis framework for smart contracts",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Slither",
+  "websiteUrl": "https://github.com/crytic/slither",
+  "applicant": {
+    "address": {
+      "address": "0x91E89d4c34Ce348E70Ff2c59555517856E662bB0",
+      "resolvedName": {
+        "address": "0x91E89d4c34Ce348E70Ff2c59555517856E662bB0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x91E89d4c34Ce348E70Ff2c59555517856E662bB0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x932a781bc59adc64234a30b65203dbcfe29ef2681c14c8a2035c19c06dee14e6"
+  },
+  "impactDescription": "By allowing developers to find the most common vulnerabilities on their smart contracts, Slither helps to improve the security of the Optimism ecosystem.\n\nSlither has 90+ detectors, and works on both Solidity and Vyper. In addition it provides printers, helping to review quickly features of contracts. It's python API can also be used to leverage its inbuilt analysis for custom needs.\n\nSlither can directly be run on a contract deployed on optimism, with `slither optim:0x..ADDRESS`",
+  "contributionDescription": "Slither is a Solidity and Vyper static analysis framework written in Python3. \n\nIt runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. Slither enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses.\n\nSlither has been used for many years by both security engineers and developers to secure their smart contracts. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/crytic/slither",
+      "description": "Slither main repo"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/crytic/slither-action",
+      "description": "Github action for slither"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#stars on github",
+      "number": "4600",
+      "url": "https://github.com/crytic/slither"
+    },
+    {
+      "description": "#forks on github",
+      "number": "850",
+      "url": "https://github.com/crytic/slither"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 389000,
+      "description": "https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI?rpgf=2"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb396a17448c7a2eb8a22f2982ac8bd4e51acb1bca4b5e58bed38aa8df066db0f",
+  "prelimResult": "#N/A"
+}

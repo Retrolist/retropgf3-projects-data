@@ -1,0 +1,49 @@
+{
+  "bio": "A Lisp for the EVM",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Dasy",
+  "websiteUrl": "https://github.com/dasylang/dasy",
+  "applicant": {
+    "address": {
+      "address": "0x07a145DbBc7e425d0F1B3B9982F955E97abad7a2",
+      "resolvedName": {
+        "address": "0x07a145DbBc7e425d0F1B3B9982F955E97abad7a2",
+        "name": "z80.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x07a145DbBc7e425d0F1B3B9982F955E97abad7a2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe01648bc3ef030fa52ebafc7f15ffd9055f8b68475bedc9785f490a02df653a7"
+  },
+  "impactDescription": "Dasy has performed well as an experimental language, already matching the features and gas performance of more mature languages. It has also been a playground for brainstorming syntax features that may or may not make it into Vyper eventually. Because of its lispy nature, these syntax features can be implemented easily as compile-time Dasy macros. If they're good, more robust support can make it into either Dasy or potentially even Vyper itself.",
+  "contributionDescription": "Dasy is a lisp for the EVM. It enables smart contract developers to write their contracts in a very convenient lisp syntax that they can mold to their liking with compile-time macros. It transpiles internally into Vyper, so Dasy contracts benefit from all the compiler optimizations in Vyper. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dasylang/dasy",
+      "description": "Main Development Repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Stars on Original Repo",
+      "number": "37",
+      "url": "https://github.com/z80dev/dasy"
+    },
+    {
+      "description": "Stars on Org Repo",
+      "number": "29",
+      "url": "https://github.com/dasylang/dasy"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x414f74b8f9da96b3f0c0abbb870ea2928dcdbc454319129df7151f43467aa5e7",
+  "prelimResult": "#N/A"
+}

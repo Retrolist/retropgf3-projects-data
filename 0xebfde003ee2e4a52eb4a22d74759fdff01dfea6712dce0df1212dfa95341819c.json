@@ -1,0 +1,57 @@
+{
+  "bio": "Tooling to develop and emulate verifyable programs for Optimism Cannon in Rust",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Cannon-rs",
+  "websiteUrl": "https://github.com/badboilabs/Cannon-rs",
+  "applicant": {
+    "address": {
+      "address": "0xc0017405E287476443Ab1B342B86f2ea92Ef9F73",
+      "resolvedName": {
+        "address": "0xc0017405E287476443Ab1B342B86f2ea92Ef9F73",
+        "name": "wollum.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc0017405E287476443Ab1B342B86f2ea92Ef9F73"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc0017405E287476443Ab1B342B86f2ea92Ef9F73.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc0017405E287476443Ab1B342B86f2ea92Ef9F73.png",
+    "id": "OptimistProfile|0xdcad77f9b9161e9d73271af942122d838499434ea574d7806de23b6ea3dd2154"
+  },
+  "impactDescription": "A number of projects (Sygma, Coinbase Base) are planning to use Rust to develop alternative clients for Cannon and the OP stack. Cannon-rs can speeds up this development by proving low level system APIs for Cannon upon which more complex provable programs can be built.\n\nProviding developers with a way to develop with Rust for Cannon improves adoption and diversity of code that can be proven using Cannon.",
+  "contributionDescription": "Over the past 6 months we have advanced the Rust tooling for Cannon from a small template repo to a full stack of tooling. This involved the following:\n\n- Changes to support that latest version of Cannon and the updated pre-image oracle\n- A docker builder image for easy cross-compilation of MIPS binaries\n- `cargo cannon` CLI tool to make it simple to bootstrap and build projects\n- Updated API for retrieving pre-image oracle data that is safer and more rust idiomatic\n\nCannon-rs is currently used by ChainSafe Systems and Sygma to develop production applications that use Cannon and the OP stack.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/badboilabs/Cannon-rs",
+      "description": "Github Repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "GitHub Stars",
+      "number": "28",
+      "url": "https://github.com/BadBoiLabs/Cannon-rs"
+    },
+    {
+      "description": "Projects depending on Cannon-rs",
+      "number": "2",
+      "url": "https://github.com/BadBoiLabs/Cannon-rs"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 5900,
+      "description": "This was incredibly valuable in getting the project to where it is today"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xebfde003ee2e4a52eb4a22d74759fdff01dfea6712dce0df1212dfa95341819c",
+  "prelimResult": "#N/A"
+}

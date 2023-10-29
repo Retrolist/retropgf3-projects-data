@@ -1,0 +1,71 @@
+{
+  "bio": "The Graph organizes and makes usable web3 data for dapps via GraphQL. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Edge & Node / The Graph",
+  "websiteUrl": "https://thegraph.com/",
+  "applicant": {
+    "address": {
+      "address": "0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b",
+      "resolvedName": {
+        "address": "0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9e8B73b5563c9aF1C35e5Aad588B67B6A414576b.png",
+    "id": "OptimistProfile|0x119c05c3fb77fc6a2f0d6c20fcf86453f3afdb02bfa37e19f3dab06305ec23b0"
+  },
+  "impactDescription": "Many Optimism dapps rely fully on The Graph for a seamless UI experience to onboard and maintain users Optimism. Since Optimism mainnet launch, The Graph's hosted service, subsidized by The Graph ecosystem (meaning completely free for dapps) has served:\n\n22.7B queries\n1.15K subgraphs\nwith a 99.97% query success rate.\n\nOver the past 30 days alone, The Graph has served 1.24B queries.\nAlso, The Graph supports Optimism Goerli and Kovan, and on testnet has served:\n\nGoerli\n1.24B queries\n272 subgraphs\n99.98% query success\n\nKovan\n173M queries\n154 subraphs\n99.99% query success\n",
+  "contributionDescription": "The Graph has supported Optimism since the initial launch of mainnet. More on that here: https://thegraph.com/blog/graph-optimistic-ethereum/. \n\nSince Optimism mainnet launch, The Graph's hosted service, subsidized by The Graph ecosystem (meaning completely free for dapps) has served:\n\n22.7B queries\n1.15K subgraphs\nwith a 99.97% query success rate.\n\nOver the past 30 days alone, The Graph has served 1.24B queries.\nAlso, The Graph supports Optimism Goerli and Kovan, and on testnet has served:\n\nGoerli\n1.24B queries\n272 subgraphs\n99.98% query success\n\nKovan\n173M queries\n154 subraphs\n99.99% query success",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://thegraph.com/",
+      "description": "The UI/DX where Optimism developers and dapps are supported"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Queries served to Optimism dapps",
+      "number": "22700000",
+      "url": "https://thegraph.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000000,
+      "description": "Strategic funding round from web3 Investors"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 7000000,
+      "description": "Seed Round"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000000,
+      "description": "Series A"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000000,
+      "description": "Venture Round"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x490ad76a69ed6e4999c570bf5b7eb2336ff8e31906a3df6bf88b9144558acccf",
+  "prelimResult": "#N/A"
+}

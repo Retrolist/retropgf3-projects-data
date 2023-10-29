@@ -1,0 +1,91 @@
+{
+  "bio": "Advocating accessible Optimism governance, amplifying voices in 🇲🇽 and beyond.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Brichis",
+  "websiteUrl": "https://linktr.ee/briciaguzman",
+  "applicant": {
+    "address": {
+      "address": "0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B",
+      "resolvedName": {
+        "address": "0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B",
+        "name": "brichis.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.jpeg",
+    "id": "OptimistProfile|0x35bb66f1e81783d9bc4d748b4dd8bcbbbdcceb8e0b9439835aaacfe0fdd2390c"
+  },
+  "impactDescription": "I actively motivated Latin American projects to participate in Season 4 through Missions and Grants, offering guidance during the application process, all in Spanish. My support served as a catalyst, encouraging potential contributors who may not have otherwise applied. This had a positive influence on communities like Espacio Cripto, Cryptoversidad, H.E.R. LATAM, and Cryptonikas.\n\nFurthermore, I offered assistance to individuals and communities seeking active involvement in Optimism governance, communicating in Spanish. I made the most of every opportunity to promote the Optimism Collective, extending invitations for people to join while emphasizing the valuable contributions from Latin America in enriching the Collective with diverse perspectives.",
+  "contributionDescription": "My journey with Optimism began in April when I embraced the role of a delegate advocating in Twitter Spaces, podcasts, and conducted workshops. I've fostered connections with diverse communities across Latin America. My aim is to empower anyone, regardless of their background, to participate and contribute to Optimism's Governance. I've collaborated with various groups and guided individuals in navigating the governance landscape. I also participated in a mission with H.E.R. LATAM*, offering a workshop on governance principles and guiding aspiring delegates. My passion lies in bridging the gap between newcomers and governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=4HyVVd4aEpc ",
+      "description": "Intro to Optimism Governance Workshop in Spanish for HER LATAM*"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/brichis.eth",
+      "description": "Two articles about Optimism tailored specifically for Latin American communities"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1bB6bUbv936bfOQenKLrX8Y_sNqC3ugcC3tVV1gj5Q6A/edit?usp=sharing",
+      "description": "Featured on 6 podcasts discussing Optimism Gov & RetroPGF"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1F9HLlcONOYCJwLPc9umkcbIZsbZqVEhiyeldZTvy4BU/edit?usp=sharing",
+      "description": "Featured on 3 X Spaces discussing Optimism Gov & RetroPGF"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/19fMrM6BMR5DQf5RvxkemPFpgjyjv4kEdw7YdaL_03wQ/edit?usp=sharing",
+      "description": "Engaging in talks, AMAs, and discussions on Gov, Public Goods, and Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/16YqQHYBbxHxkKzX3NQFCi7jHYCqeynSEt3_qUyz8xjc/edit?usp=sharing",
+      "description": "1:1 Calls for Enhanced Governance Participation* and Grant Applications"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Support in project applications",
+      "number": "7",
+      "url": "https://docs.google.com/spreadsheets/d/1VKn6FC3Wcch3asxEXUhxvfnLmh95aToE1oq-SkMisIU/edit#gid=0"
+    },
+    {
+      "description": "1:1 Calls",
+      "number": "6",
+      "url": "https://docs.google.com/spreadsheets/d/16YqQHYBbxHxkKzX3NQFCi7jHYCqeynSEt3_qUyz8xjc/edit?usp=sharing"
+    },
+    {
+      "description": "Delegated OP increment",
+      "number": "55887.08",
+      "url": "https://optimism.curiahub.xyz/delegates/0x7fc80fad32ec41fd5cfcc14eee9c31953b6b4a8b"
+    },
+    {
+      "description": "# of communities with which I interacted",
+      "number": "8",
+      "url": "https://docs.google.com/spreadsheets/d/14gpOVAyi8mzAib-FV5GGTFRewuCT9OUkDYXlSnewF6M/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2240,
+      "description": "Locked until Aug 24. As part my involvement in the H.E.R. LATAM mission*"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+  "prelimResult": "#N/A"
+}

@@ -1,0 +1,44 @@
+{
+  "bio": "Fe is a high-level language for the EVM.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Fe",
+  "websiteUrl": "https://fe-lang.org",
+  "applicant": {
+    "address": {
+      "address": "0x7dDeBeb7a2d0Ecb9b9bE8d72D2E3dC96dC2481F7",
+      "resolvedName": {
+        "address": "0x7dDeBeb7a2d0Ecb9b9bE8d72D2E3dC96dC2481F7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7dDeBeb7a2d0Ecb9b9bE8d72D2E3dC96dC2481F7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe7619358eaf7a18f64735152ccf2cbf5f6b96f807bd2e04fae24046c2b1a9cbf"
+  },
+  "impactDescription": "Since the Fe compiler targets EVM, developers can write Fe code for Ethereum or any EVM-equivalent platform. Fe support's a number features that developers have come to love. That list includes things like, enums and pattern matching, libraries and modules, a standard library, traits, built-in testing, and more. By improving languages we are able to improve the ecosystem as a whole.",
+  "contributionDescription": "Fe is a high-level language for the EVM. It is heavily inspired by Rust and implemented in it too. You can use Fe to write smart contracts for Ethereum or any EVM-equivalent platform. Developers who have come to appreciate Rust will enjoy many of the features currently supported by Fe.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum/fe",
+      "description": "project repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "github stats",
+      "number": "42",
+      "url": "https://github.com/ethereum/fe"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x5407e7425c015d4852eb1393c7863d0c1e8b6c325c50f2a01c1baa6584daba8d",
+  "prelimResult": "#N/A"
+}

@@ -1,0 +1,51 @@
+{
+  "bio": "SpaghettETH is the umbrella collective of the italian ETH communities.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "SpaghettETH",
+  "websiteUrl": "https://spaghett-eth.com",
+  "applicant": {
+    "address": {
+      "address": "0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5",
+      "resolvedName": {
+        "address": "0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5",
+        "name": "matlemad.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5.png",
+    "id": "OptimistProfile|0x5fe0451850e78f83868e5614d9bd57a120839098969ce9aa4182ecc0e9165cdb"
+  },
+  "impactDescription": "As L2 supporters, we always mentor new projects to run their DApps on either Optimism or Arbitrum, and network them to get in touch with core developers in the OP collective. We also provide educational modules for crypto newbies in our country and feature demos on all L2s",
+  "contributionDescription": "We run conferences for the wider ETH italian community on a seasonal basis, with one main national event (SpaghettETH) + coordination for smaller meetups on the territory. We always make sure that our ticketing system operate on both L2s (via https://mego.cx/#/) and to invite speakers from the OP ecosystem at every turn. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/spaghettETH",
+      "description": "open source Map for ETH communities (adopted by LatAm Chapters)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of communities genereated in 1 year",
+      "number": "12",
+      "url": "https://www.spaghett-eth.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "none"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
+  "prelimResult": "#N/A"
+}

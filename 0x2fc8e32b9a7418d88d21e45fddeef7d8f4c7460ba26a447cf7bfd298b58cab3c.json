@@ -1,0 +1,73 @@
+{
+  "bio": "The most extensive web3 B2B community in APAC with 2K+ members from 800 projects",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "APAC DAO",
+  "websiteUrl": "https://apacdao.net/",
+  "applicant": {
+    "address": {
+      "address": "0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45",
+      "resolvedName": {
+        "address": "0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45",
+        "name": "nicolenguyen.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4F5F74D5770c943d2d111F14dEb8743Ba366Eb45.png",
+    "id": "OptimistProfile|0xd539f136ac96094ba6592d66bec2b4ffdd23065c0cad773aaa1564c5d59ab345"
+  },
+  "impactDescription": "Generate awareness and strong interest in building on Base - one of the most important partnering ecosystems to Optimism. With a combined approach of education, office hours, AMA and community engagement, we were able to gather in total 200+ audience (150+ for workshop and 100+ for office hours)  to understand about how to build on BASE and demonstrate their use cases on Base.",
+  "contributionDescription": "Being one of the first APAC-focused communities to drive awareness and builders growth for Base and OP ecosystem by leveraging our existing 2,000+ builders network in APAC DAO and our sister community ABC Station of 13K developers through a well curated education workshop and office hours series.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ABC_StationHQ/status/1693113732065628336?s=20",
+      "description": "Office Hours and demo showcase built on Base by SEA builders and developers"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ABC_StationHQ/status/1693113732065628336?s=20",
+      "description": "Educational workshop for BASE with SEA developers community"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of audience",
+      "number": "150",
+      "url": "https://x.com/apacdao/status/1648935590296186881?s=20"
+    },
+    {
+      "description": "Number of builders",
+      "number": "100",
+      "url": "https://x.com/ABC_StationHQ/status/1693113732065628336?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Research and execution of workshop for 150+ developers"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Operational cost to run Base office hours for 5 showcase teams and 100 builders"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Manpower to engage the community and promote workshop and office hours for Base"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2fc8e32b9a7418d88d21e45fddeef7d8f4c7460ba26a447cf7bfd298b58cab3c",
+  "prelimResult": "#N/A"
+}

@@ -1,0 +1,82 @@
+{
+  "bio": "Simplifying the voting RetroPGF experience: easier to face 2 than 2000",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Pairwise",
+  "websiteUrl": "https://pairwise.retropgf.com/",
+  "applicant": {
+    "address": {
+      "address": "0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1",
+      "resolvedName": {
+        "address": "0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1",
+        "name": "pairwise.generalmagic.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png",
+    "id": "OptimistProfile|0x9b98c35a308746decc255ecef5f0e68662bd5d0f14f9abf8632abe0652b50318"
+  },
+  "impactDescription": "Pairwise was developed to enhance the RetroPGF decision-making process. Optimism currently has the power to use it when RetroPGF final data is made available. With streamlined choices, members can engage with projects more intuitively and suited to their knowledge, ensuring better decisions. The dynamic unlocking feature keeps the process engaging, allowing greater influence over time. Strategic allocation ensures votes align with individual visions. Beyond just vote simplification, Pairwise amplifies badgeholders' voices, championing true digital democracy. Focused on strengthening Optimism’s ecosystem, Pairwise stands as a pivotal tool, enabling badgeholders to efficiently contribute their expertise, maximizing impact with minimal time and creating a realm where every insight is valued.",
+  "contributionDescription": "Pairwise simplifies complex decision-making by presenting only two projects at a time for list creation. This method eases voting and introduces a system where citizens can project lists with budget allocations. Offering a solution to the RetroPGF 2 challenge of assigning percentages to 196 projects for example, Pairwise divides and reduces workload by categorizing projects and emphasizing individual expertise so that citizens can focus their vote on their areas of knowledge, ensuring both simplified and informed voting. The algorithm mirrors the Elo system used in games like League of Legends, where project comparison leads to more precise decisions.\n\nWe've crafted a completely new game experience for citizens, and we're eager for citizens to explore it.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/GeneralMagicio/pw-frontend",
+      "description": "Optimism game UI with Rainbow Kit wallet connect."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/GeneralMagicio/pw-backend",
+      "description": "Backend for Optimism game: collations & algorithm."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/GeneralMagicio/pw-retropgf3-categorize",
+      "description": "AI-driven API for project categorization in Optimism game."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://pairwise.retropgf.com/",
+      "description": "Witness innovative list creation & reshaping of community decisions."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Community Discussions",
+      "number": "1",
+      "url": "https://gov.optimism.io/t/preliminary-curation-for-pairwise-planets-insight-and-feedback-phase/6992"
+    },
+    {
+      "description": "Spot Noisy Applications with AI (Oct 23)",
+      "number": "301",
+      "url": "https://docs.google.com/spreadsheets/d/19cLUUhlYkj1Eec2uPoLyLfvepP3ymS6IqShcQPLRCgg/edit#gid=1002874634"
+    },
+    {
+      "description": "Deliver On-Time Milestones",
+      "number": "4",
+      "url": "https://gov.optimism.io/t/final-pairwise-tinder-ux-for-web3-community-signaling/6142/34"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 7805.18,
+      "description": "RetroPGF 2"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 95000,
+      "description": "Grant by the Token House"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+  "prelimResult": "#N/A"
+}

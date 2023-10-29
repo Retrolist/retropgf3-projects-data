@@ -1,0 +1,72 @@
+{
+  "bio": "Deploy your DAO in a few seconds",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Gov",
+  "websiteUrl": "https://w3hc.org",
+  "applicant": {
+    "address": {
+      "address": "0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42",
+      "resolvedName": {
+        "address": "0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42.png",
+    "id": "OptimistProfile|0x2e7192fd665c72b76490fc88b0e5316c282550d993a2187273262b77bb8ce379"
+  },
+  "impactDescription": "Our goal in terms of adoption is clear. It is described in Gov docs: https://w3hc.github.io/gov-docs/pilots.html. A good example of this is the DAO we're deploying for care givers, in partnership with legacy health insurance orgs. \n\nAt the W3HC (Web3 Hackers Collective), our mission statement is \"We want to build integrations through mentoring and learning.\". A lot of the projects we've been working on actually need this special \"lego brick\". In the meantime we also train as many devs as we can on these techniques, including in Africa (Supertontine project https://github.com/w3hc/supertontine). ",
+  "contributionDescription": "As basic end-users of Optimism network, we regularly give our own feedback to projects supporting OP, like Tally for example. Our mission statement is \"We want to build integrations through mentoring and learning.\", so we identify relevant Web3 integrations to achieve, and seize these opportunities to do as much mentoring as possible. One of the project we're working on, Supertontine, really pushed us to mentor more than 30 devs based in several African countries. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x83e2403a8b94af988b4f4ae9869577783b8cd216",
+      "description": "W3HC Gov contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov-deployer.on.fleek.co/",
+      "description": "Gov Deployer UI"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/w3hc/gov",
+      "description": "Gov contracts repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/w3hc/gov-deployer",
+      "description": "Gov deployer UI repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Pilots in the work",
+      "number": "2",
+      "url": "https://w3hc.github.io/gov-docs/pilots.html"
+    },
+    {
+      "description": "Projects using Gov",
+      "number": "3",
+      "url": "https://github.com/w3hc/dontbelate-dao"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 1079.78,
+      "description": "https://www.tally.xyz/gov/web3-hackers-collective/treasury"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe512145819e4a511f7fd8f0f6cd67d8c9b90a8dda31598371b56bf754e6cc725",
+  "prelimResult": "#N/A"
+}

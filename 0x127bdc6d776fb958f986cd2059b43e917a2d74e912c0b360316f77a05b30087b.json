@@ -1,0 +1,81 @@
+{
+  "bio": "Technical support specialists assisting developers building on the OP Stack.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "TechNERD Program",
+  "websiteUrl": "https://gov.optimism.io/t/final-technerd-program/6087",
+  "applicant": {
+    "address": {
+      "address": "0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF",
+      "resolvedName": {
+        "address": "0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF.png",
+    "id": "OptimistProfile|0x5ee93dee322d4626ffb30f75a47412d797c19f8eba16106c42ade906bf75aa3d"
+  },
+  "impactDescription": "The TechNERDS expand developer support and bridge technical knowledge gaps. They directly solve developer pain by answering questions, debugging issues via support tickets and dev channels, improve documentation, and making improvements to the code repositories. They're enabling developers to build and thrive on the OP Stack.",
+  "contributionDescription": "The TechNERD program consists of 4 technical support specialists who help developers on every layer of the OP Stack. They directly solve developer pain by answering questions and debugging issues through support tickets and developer channels on our Discord.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/18codEsaK7X7evJLyKp4ptKTwHGpCRA6vYWX5vS7S-2s/edit#gid=786827807",
+      "description": "Raw Metrics Collected by OPLabs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/final-technerd-program/6087",
+      "description": "S4 Governance Mission Proposal"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Closed support tickets",
+      "number": "176",
+      "url": "https://docs.google.com/spreadsheets/d/18codEsaK7X7evJLyKp4ptKTwHGpCRA6vYWX5vS7S-2s/edit#gid=243859850"
+    },
+    {
+      "description": "Average user rating (out of 5)",
+      "number": "4.7675",
+      "url": "https://docs.google.com/spreadsheets/d/18codEsaK7X7evJLyKp4ptKTwHGpCRA6vYWX5vS7S-2s/edit#gid=786827807"
+    },
+    {
+      "description": "Messages sent in developer channels",
+      "number": "2268",
+      "url": "https://docs.google.com/spreadsheets/d/18codEsaK7X7evJLyKp4ptKTwHGpCRA6vYWX5vS7S-2s/edit#gid=786827807"
+    },
+    {
+      "description": "GitHub Issues Opened",
+      "number": "8",
+      "url": "https://docs.google.com/spreadsheets/d/18codEsaK7X7evJLyKp4ptKTwHGpCRA6vYWX5vS7S-2s/edit#gid=786827807"
+    },
+    {
+      "description": "GitHub Pull Requests Opened",
+      "number": "17",
+      "url": "https://docs.google.com/spreadsheets/d/18codEsaK7X7evJLyKp4ptKTwHGpCRA6vYWX5vS7S-2s/edit#gid=786827807"
+    },
+    {
+      "description": "GitHub Pull Requests Merged",
+      "number": "10",
+      "url": "https://docs.google.com/spreadsheets/d/18codEsaK7X7evJLyKp4ptKTwHGpCRA6vYWX5vS7S-2s/edit#gid=786827807"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 16800,
+      "description": "4.2K OP for each TechNERD Locked for 1 year - S4 Governance Mission Proposal"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+  "prelimResult": "#N/A"
+}

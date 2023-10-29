@@ -1,0 +1,51 @@
+{
+  "bio": " Expert Cryptographer for 19 years (17 Defense then 2 Eth ecosystem).",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Reno",
+  "websiteUrl": "https://github.com/rdubois-crypto/FreshCryptoLib",
+  "applicant": {
+    "address": {
+      "address": "0x936632cC3B9BC47ad23D41dC7cc200015c447f71",
+      "resolvedName": {
+        "address": "0x936632cC3B9BC47ad23D41dC7cc200015c447f71",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x936632cC3B9BC47ad23D41dC7cc200015c447f71"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x936632cC3B9BC47ad23D41dC7cc200015c447f71.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x844706179c67acb13b6bb6f3f50918f3bacc5e7bfb37d45dbd0f9d97485f423e"
+  },
+  "impactDescription": "The deployment makes something tought as possible only through precompiles with pure solidity code. While some less efficient implementation are available there and there, our precomputation version remains at least x5 cheaper than our competitors.\n\nIt also makes secp256r1 as a candidate for EIP4337 custom signer, to couple with the secure enclave of a smartphone. Now available on Optimism.",
+  "contributionDescription": "I deployed the most gas optimized version of the computation of curve secp256r1, as described in my paper. I pushed the contract over polygon and optimism testnet so that anyone can build application on top.\n\nMain application is the verification of WebAuthn authentication. Using this work, we managed to win the Ethereum NY hackaton with our project wallet abstraction. https://github.com/qd-qd/wallet-abstraction. \n\nThe maths implied there will also be applicable to ed25519 i'm working on, when this curve, that belongs to FIDO2 spec is integrated in WebAuthn.\n\nPlease note that the eoA I used to deploy the contract is the same that i used to win the hackaton. (verifiable Poaps and prizes there).\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/rdubois-crypto/FreshCryptoLib",
+      "description": "0xebcaae4af6844b5f24a4730c5f58130977e62a2b#code"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github stars",
+      "number": "62",
+      "url": "https://hackmd.io/@1ofB8klpQky-YoR5pmPXFQ/SJ0nuzD1T"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "Didn't receive any fund"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9b2503a1c38eb7324c250449d59685ff0ce278da814eece9e09b23cb1040ea07",
+  "prelimResult": "Keep"
+}

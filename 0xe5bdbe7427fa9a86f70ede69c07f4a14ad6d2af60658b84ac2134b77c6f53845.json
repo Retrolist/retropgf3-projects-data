@@ -1,0 +1,126 @@
+{
+  "bio": "Collective of people from Berlin: Protocol Berg, Goerli Testnet.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Department of Decentralization",
+  "websiteUrl": "https://dod.ngo",
+  "applicant": {
+    "address": {
+      "address": "0x59cc3Fc56B8B2988F259EC1E6f3446907130f728",
+      "resolvedName": {
+        "address": "0x59cc3Fc56B8B2988F259EC1E6f3446907130f728",
+        "name": "dezent.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x59cc3Fc56B8B2988F259EC1E6f3446907130f728"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.png",
+    "id": "OptimistProfile|0xc1428b383308333d407bfa7ee402d266e63bedc5b8cd1f08161e1da7dd4d89b8"
+  },
+  "impactDescription": "The Goerli testnet is still the most frequented public Ethereum testnet by all metrics, seeing more than 240 million transactions and 28 million active accounts. The optimistic Goerli testnet has seen 30 million transactions with over 4 million active accounts. The events we organize host roughly 1000 hackers and attendees. Our social media community has 11k followers.",
+  "contributionDescription": "The Department of Decentralization is a collective of people from various crypto- and blockchain communities in and around Berlin. The group assembled to organize events like ETHBerlin, Protocol Berg, or GoerliCon and has been providing infrastructure such as the Goerli and now the Holešky testnet.\n\nWe aim to be an agnostic vehicle to drive adoption, educate newcomers, and raise awareness of the challenges and benefits of decentralization and open-source software.\n\nOptimism benefits from public infrastructure such as the Goerli testnet, which has been the primary layer-1 for the optimistic Goerli testnet in the past year.  In addition, the Optimism Foundation has been represented at the past year's ETHBerlin and Protocol Berg.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://goerli.net/",
+      "description": "Goerli Testnet (and GoerliCon #0)."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/eth-clients/goerli",
+      "description": "Goerli (Görlitzer Testnet)."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/eth-clients/holesky",
+      "description": "Holešky (Holešovice Testnet)."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethberlin.ooo/",
+      "description": "ETHB3rlin - to the power of 3."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://protocol.berlin/",
+      "description": "Protocol Berg - the decentralized protocol and infrastructure conference."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OP Goerli transactions",
+      "number": "30376282",
+      "url": "https://goerli-optimism.etherscan.io/txs"
+    },
+    {
+      "description": "L1 Goerli transactions",
+      "number": "241691153",
+      "url": "https://goerli.etherscan.io/txs"
+    },
+    {
+      "description": "Holešky validators",
+      "number": "1473730",
+      "url": "https://holesky.beaconcha.in/validators"
+    },
+    {
+      "description": "Twitter followers",
+      "number": "11553",
+      "url": "https://twitter.com/ETHBerlin"
+    },
+    {
+      "description": "ETHBerlin hackers (2022)",
+      "number": "850",
+      "url": "https://ethberlin.ooo/gallery"
+    },
+    {
+      "description": "Protocol Berg attendees (2023)",
+      "number": "650",
+      "url": "https://protocol.berlin/gallery"
+    },
+    {
+      "description": "Talks and workshops",
+      "number": "140",
+      "url": "https://www.youtube.com/@departmentofdecentralization/playlists"
+    },
+    {
+      "description": "ETHBerlin projects (2022)",
+      "number": "100",
+      "url": "https://ethberlin.devfolio.co/projects"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 143507.74,
+      "description": "RetroPGF 2 funding for the Goerli Testnet"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Ethereum Foundation Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Polkadot Treasury"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Tickets to our events are always free of charge!"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+  "prelimResult": "#N/A"
+}

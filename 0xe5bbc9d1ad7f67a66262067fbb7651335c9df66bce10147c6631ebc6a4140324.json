@@ -1,0 +1,55 @@
+{
+  "bio": "Dad, builder, entrepreneur. Building things and explaining complex concepts.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "vrypan",
+  "websiteUrl": "https://vrypan.net",
+  "applicant": {
+    "address": {
+      "address": "0x93c620D2aF377C6C37e3E3c1d3E065eb04b08aE2",
+      "resolvedName": {
+        "address": "0x93c620D2aF377C6C37e3E3c1d3E065eb04b08aE2",
+        "name": "vrypan.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x93c620D2aF377C6C37e3E3c1d3E065eb04b08aE2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x93c620D2aF377C6C37e3E3c1d3E065eb04b08aE2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x93c620D2aF377C6C37e3E3c1d3E065eb04b08aE2.png",
+    "id": "OptimistProfile|0xd4e67174a679ba8c5f962c9dc243db42c2146d7b48f8e1faba2b5c377d6705cf"
+  },
+  "impactDescription": "farcaster-py and fario are important parts of a Python-base toolchain that will allow Python developers to build for Farcaster. Python is very important in this case as developers building/integrating AI tools and apps often use Python. Since Farcaster is a social network, AI applications can bring value in ways we can't define yet.",
+  "contributionDescription": "(Context: Farcaster is a sufficiently decentralized social network. It's on-chain components are deployed on Optimism.)\n\nI've build Python bindings for Farcaster (farcaster-py). It exposes most of the gRPC functionality provided by Farcaster hubs. It also provides easy-to-use, interfaces for the on-chain trasaction required by the Farcaster protocol such as adding and removing \"Signers\".\n\nOn top of farcaster-py I also built fario. Fario is a set of command line tools intended to be used by Farcaster power users and developers. They allow interacting with the Farcaster protocol and are designed to integrate with the Unix command line ecosystem.\n\nBoth projects were released only a couple of days before the end or RetroPGF3, so there is not much to share regarding metrics.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/vrypan/farcaster-py",
+      "description": "Python bindings for Farcaster"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/vrypan/fario",
+      "description": "Command line tools for the Farcaster power user and developer."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Likes",
+      "number": "22",
+      "url": "https://warpcast.com/~/conversations/0x12cfd5f4ca5607445a45cc9dcfd58af010d08288"
+    },
+    {
+      "description": "Github stars",
+      "number": "4",
+      "url": "https://github.com/vrypan/fario"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe5bbc9d1ad7f67a66262067fbb7651335c9df66bce10147c6631ebc6a4140324",
+  "prelimResult": "#N/A"
+}

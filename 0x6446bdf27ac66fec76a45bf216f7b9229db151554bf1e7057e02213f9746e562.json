@@ -1,0 +1,84 @@
+{
+  "bio": "UseDApp is a framework for decentralized application development",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "UseDApp",
+  "websiteUrl": "https://usedapp.io/",
+  "applicant": {
+    "address": {
+      "address": "0x9Aaa4D68D165C8697C7055230148075b36c4e347",
+      "resolvedName": {
+        "address": "0x9Aaa4D68D165C8697C7055230148075b36c4e347",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9Aaa4D68D165C8697C7055230148075b36c4e347"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9Aaa4D68D165C8697C7055230148075b36c4e347.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9Aaa4D68D165C8697C7055230148075b36c4e347.png",
+    "id": "OptimistProfile|0x46a9fdde5a2db4094963b29660da1cb4b86c4a873a95a5f8906f19bce16b5c33"
+  },
+  "impactDescription": "- Over the last few years, UseDapp was downloaded almost 1 million times and helped a lot of developers to increase time-to-market for their applications. \n- UseDapp was used by projects like Optimism, Status, Nouns, Tally, Boba Network, Pool Together, NuCypher, Index Coop, & over 4.5k more total projects. \n- UseDapp was popular with hackers at hackathons, as well. \n- It has >1.5k stars on GitHub. For years it was a leading web3 react library. \n- UseDApp is integrated with different tools and boilerplates like create-react-app (https://github.com/PaulRBerg/create-eth-app) with 2.6k stars on GitHub. \n- UseDApp as an open source library has additional extensions and adapters including one written by OP Labs PBC member Fucory https://twitter.com/FUCORY/status/1682046286902755332\n",
+  "contributionDescription": "We are creators and maintainers of the open-source frameworks UseDApp, a framework for decentralized application development\n\n- UseDapp has helped developers build complex multichain application support streamlining the development process. \n- UseDapp supports almost 70 different chains, including Optimism, Optimism Goerli, and Optimism Kovan, improving developers' ability to build and test dApps. \n- UseDApp was the first framework to use Multichain calls which lead to broader blockchain call optimizations. \n- UseDApp also created a set of useful hooks and helpers that made it even simpler and faster to integrate with different existing standards like ERC20 e.g. useTokenBalance, and useTokenApprovals.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/TrueFiEng/useDApp",
+      "description": "Our team was part of UseDApp creators over time becoming the only maintainers."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=SHX5eW7nVCg",
+      "description": "Workshop at EthDenver"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=l4bhNejFN7M",
+      "description": "Workshop at EthCC"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=DlSj9E6NP5g",
+      "description": "Workshop at 0xHack Online"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=LJYwsncqPQQ",
+      "description": "Workshop at 0xHack Online"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtube.com/watch?v=yD3aucKVXZc",
+      "description": "Workshop at EthPrague"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dependent Repos",
+      "number": "27",
+      "url": "https://www.npmjs.com/package/@usedapp/core?activeTab=dependents"
+    },
+    {
+      "description": "Weekly Downloads",
+      "number": "4573",
+      "url": "https://www.npmjs.com/package/@usedapp/core"
+    },
+    {
+      "description": "Github Stars",
+      "number": "1500",
+      "url": "https://github.com/TrueFiEng/useDApp"
+    },
+    {
+      "description": "Lifetime Downloads",
+      "number": "825504",
+      "url": "https://npm-stat.com/charts.html?package=%40usedapp%2Fcore&from=2020-07-21&to=2023-10-21"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6446bdf27ac66fec76a45bf216f7b9229db151554bf1e7057e02213f9746e562",
+  "prelimResult": "#N/A"
+}

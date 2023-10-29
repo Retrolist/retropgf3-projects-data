@@ -1,0 +1,61 @@
+{
+  "bio": "Optimism Ambassador, Project advisors",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Subli",
+  "websiteUrl": "https://linktr.ee/subli_defi",
+  "applicant": {
+    "address": {
+      "address": "0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2",
+      "resolvedName": {
+        "address": "0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x85f565e3f09b812d4510b62659d23e52c22615da2dbc4b0d4052a62dc610dff3"
+  },
+  "impactDescription": "Easing the onboarding process before, during and after the deployment on OP Mainnet has been key towards successfull launch & growth.\n\nBy provoding support such as Grant application process and timeline, i have not only helped projects to successfully apoly for a grant that bootstrapped their adoption, but also lowered the pressure on the OP BD team as they are having too many leads to follow up.\n\nBy guiding them on how to increase their visbility towards the OP Community, some have presented their dAPP into the demo-day channel on the OP discord.\n\nFinally, having a point of contact close to the OP Team has also been decisive for projects so that they can focus on project development and have a smooth deployment on OP Mainnet.\n\nWith all the EVM-Layer 2 chains, that was a clear value prop. ",
+  "contributionDescription": "Through this application to RPGF, i’ll be covering my involvement at contributing to the Optimism Team to assist/support the onboarding of new projects on Optimism. The support consisted in providing support to project team about Governance (incl. grant), Ecosystem connections, technical information about the OP Stack, co-marketing support, filtering projects for the OP team (whether top tiers or not yet ready) in view of co-marketing support by the OP team, guiding them towards Demo-day on Optimism discord. \n\nMy involvement has been discussed & has been conducted through the support of the Optimism Team\n\nI'm also part of the Ambassador Program on this RPGF round. While being a supet ambassador helped a lot the above, work & impact are clearly different. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/11hNPSbJX20LQHxdiXlRaZE-pr8oigFhaL96MvT5VtvA/edit?usp=drivesdk",
+      "description": "Google doc : Register list of individual involvement as an Optimism Advisor "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of projects supported/advised",
+      "number": "28",
+      "url": "https://docs.google.com/document/d/11hNPSbJX20LQHxdiXlRaZE-pr8oigFhaL96MvT5VtvA/edit?usp=drivesdk"
+    },
+    {
+      "description": "Evaluation FEEDBACK (Summary) ",
+      "number": "17",
+      "url": "https://drive.google.com/file/d/1ewuaR_9I2yNQZFGl7h5WOb2g4PoepiME/view?usp=drivesdk"
+    },
+    {
+      "description": "Evaluation feedback (Detailed) ",
+      "number": "17",
+      "url": "https://drive.google.com/file/d/1yTG8szgMS9YkSxtTwLsbNEYxAXqfKxeA/view?usp=drivesdk"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": "None received as an individual "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+  "prelimResult": "Pending Review - R2"
+}

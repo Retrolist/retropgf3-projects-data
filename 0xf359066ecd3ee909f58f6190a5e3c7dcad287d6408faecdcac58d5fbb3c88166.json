@@ -1,0 +1,107 @@
+{
+  "bio": "The pioneer blockchain explorer to navigate shard blob transactions.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Blobscan",
+  "websiteUrl": "https://blobscan.com",
+  "applicant": {
+    "address": {
+      "address": "0xA6505171a320AAD27da33c9514b555D3b331D235",
+      "resolvedName": {
+        "address": "0xA6505171a320AAD27da33c9514b555D3b331D235",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xA6505171a320AAD27da33c9514b555D3b331D235"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA6505171a320AAD27da33c9514b555D3b331D235.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA6505171a320AAD27da33c9514b555D3b331D235.png",
+    "id": "OptimistProfile|0xa72bc36998bc0110c6d620c622014d35af3ed9664decb24ea6585021eb92cd4e"
+  },
+  "impactDescription": "We have contributed to the ongoing effort of the EF's DevOps team EthPandaOps on the EIP-4844 by being the go-to solution for visualizing, examining, and navigating blob shard txs, as well as ensuring blob data persistence and its consistent availability through our web app and REST API.\n\nBlobscan has been integrated as a core tool into the EIP-4844 development stack. It has been notably integrated into ethPandaOps's Helm charts repository for easy Kubernetes deployment. The DevOps team runs their own dedicated instance of our explorer as well. We have extended support for every devnet, and as of now, have supported seven releases.",
+  "contributionDescription": "- Created and deployed a documentation site detailing usage, guides, troubleshooting, etc.\n- Deployed public REST API.\n- Web App Upgrades:\n - Enhanced block, blob txs, and blob views, along with a revamped homepage for richer insights.\n - Improved stats view with interactive time series charts and added new metrics: gas expenditure comparison, blob price, fee, gas usage, etc.\n- Backend Upgrades:\n - Migrate the indexer to Rust and improve its performance, robustness, and reliability.\n - Support for Google Storage and Eth Swarm as blob data storage layers with auto-propagation mechanism.\n- Repository Refinements:\n - Added integration tests and telemetry support for advanced observability.\n - Enhanced CI/CD process, achieved full dockerization, and integrated Sentry for error tracking.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://blobscan.com",
+      "description": "Blobscan explorer."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.blobscan.com",
+      "description": "Blobscan documentation."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://api.blobscan.com",
+      "description": "Blobscan REST API."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Blobscan/blobscan",
+      "description": "Blobscan monorepo with the code of the REST API, web and documentation sites."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Blobscan/blobscan-indexer.rs",
+      "description": "The indexer for the Blobscan explorer implemented in Rust."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethpandaops/ethereum-helm-charts/tree/master/charts/blobscan",
+      "description": "Blobscan's Helm chart as part of EthPandaOps's Ethereum Helm charts repository."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dencun-devnet-9.ethpandaops.io/",
+      "description": "Latest Dencun devnet release."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Web visitors last 30 days",
+      "number": "893",
+      "url": "https://0xgabi.notion.site/Analytics-122af559f79c4c42ac0e5d19a2c60137"
+    },
+    {
+      "description": "Blob data stored (GB)",
+      "number": "46",
+      "url": "https://blobscan.com/stats/blob"
+    },
+    {
+      "description": "Projects using blobscan",
+      "number": "1",
+      "url": "https://dencun-devnet-9.ethpandaops.io"
+    },
+    {
+      "description": "EIP-4844 devnets support",
+      "number": "7",
+      "url": "https://0xgabi.notion.site/Devnets-c2b4f427e1ab497fba703a461d2f583a?pvs=4"
+    },
+    {
+      "description": "Collaboration with Ethereum DevOps team",
+      "number": "2",
+      "url": "https://0xgabi.notion.site/Contributions-f5a6485b742e47b3a78445980a3b8923?pvs=4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 40012.19,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100000,
+      "description": " Ethereum Foundation 2022 Layer 2 Community Grants Program"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf359066ecd3ee909f58f6190a5e3c7dcad287d6408faecdcac58d5fbb3c88166",
+  "prelimResult": "#N/A"
+}

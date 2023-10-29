@@ -1,0 +1,147 @@
+{
+  "bio": "Jessy’s Hacker House supports a strong community of builders",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Jessy's Hacker House",
+  "websiteUrl": "https://twitter.com/wehack247",
+  "applicant": {
+    "address": {
+      "address": "0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9",
+      "resolvedName": {
+        "address": "0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9",
+        "name": "0xjepsen.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x80b71a41b60e0b4e45bb1fdd55a345ac136ebc9301340212ad24b4bbefd638c8"
+  },
+  "impactDescription": "Jessy's hacker house and the Optimism Collective share a profound synergy in their commitment to Ethereum's sustainable future. While the Collective envisions a world where public goods equate to profitability, Jessy's house actualizes this by nurturing open-source projects. The single requirement for residents of Jessy's hacker house, is that whatever they build, it must be free open source. The house's emphasis on free open-source software resonates with the Collective's retroactive public goods funding, underscoring the belief that true value lies in communal benefits. We challenge traditional notions of profit, advocating for a model where community-driven initiatives and shared benefits define success in the Ethereum landscape.",
+  "contributionDescription": "Jessy's hacker house is a beacon for engineers and innovators in the Ethereum ecosystem, offering a supportive community to navigate this niche industry. We prioritize our residents, fostering an environment where they can collaborate, learn, and form lasting bonds. Our rigorous selection process ensures we house genuine, curious, and resourceful individuals. We view our houses as a public good, never compromising our values for monetary gain. Living and hacking together fosters deeper connections than casual meetups. We value obsession, genuine curiosity, and resourcefulness. We will include a list of all projects built by our residents.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/primitivefinance/arbiter",
+      "description": "EVM Logic simulator"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/cairoeth/arbx",
+      "description": "cross-chain arbitrage protocol"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/laudiacay/barustenberg",
+      "description": "barretenburg in rust"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SorellaLabs/ethers-reth",
+      "description": "in memory middleware for reth"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/paradigmxyz/reth/issues/3428",
+      "description": "Reth Prunning"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bluealloy/revm",
+      "description": "Work on eip4844 for revm "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://t.co/IesndP2MsK",
+      "description": "Ring buffer in solidity (Made for optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1jB4cmZv42zrsJC4rMgP9gxxyAvrppG5N9lMqzBilOHw/edit",
+      "description": "SF Blockchain week Projects"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1623r02lsVcg-LEpjbaQ6OlRbORSqUEw03fSbHehaL6E/edit",
+      "description": "Devcon Projects"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=RMmJXIxZBUE",
+      "description": "Paris video"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/Zoomer-House-00cc170b59414fde82fafb17f7dc9bec",
+      "description": "First house"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://roamresearch.com/#/app/zoomer/page/6Z2X2Ais5",
+      "description": "Podcast link"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=CL-AfuyKj0c",
+      "description": "AMS Video"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/wehack247",
+      "description": "Many more projects can be found linked here in our twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique open source projects hacked ",
+      "number": "110",
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=79619539"
+    },
+    {
+      "description": "Number of residents supported",
+      "number": "320",
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=1507946051"
+    },
+    {
+      "description": "Events we Hosted",
+      "number": "8",
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=1885259814"
+    },
+    {
+      "description": "Visitors at our Houses",
+      "number": "3500",
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=979617392"
+    },
+    {
+      "description": "Funding Received by Residents",
+      "number": "46000000",
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=310545002"
+    },
+    {
+      "description": "Media Links",
+      "number": "3",
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=1362224191"
+    },
+    {
+      "description": "Misc Information",
+      "number": "3",
+      "url": "https://docs.google.com/spreadsheets/d/16J8Ic9VYcNXFFsGJd0RjJ6Vahrx3xMgPhaQPXvWg4Bk/edit#gid=1631545597"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 400000,
+      "description": "This is total amount of funding we have collected to run the houses in the past "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+  "prelimResult": "Keep"
+}
